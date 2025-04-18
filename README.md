@@ -23,7 +23,7 @@
 
 ### 📫 How to reach me ...
 - **Email**: [aksingh3134@gmail.com]
-- **LinkedIn**: [www.linkedin.com/in/aditya-kumar-singh-563023139]
+- **LinkedIn**: [www.linkedin.com/in/aditya-singh-cloud]
 - **Twitter**: [@AKRoyal07]
 - **GitHub**: [@aditya3134802](https://github.com/aditya3134802)
 
